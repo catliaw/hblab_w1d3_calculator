@@ -19,7 +19,8 @@ def square(num1):
     return num1 ** 2
 
 def cube(num1):
-    pass
+    """Takes 1 integer and returns the cube of that integer."""
+    return num1 ** 3
 
 def power(num1, num2):
     pass
