@@ -27,4 +27,5 @@ def power(num1, num2):
    	return num1 ** num2
 
 def mod(num1, num2):
-    pass
+    """Takes 2 integers and returns the remainder when the first input is divided by the second input."""
+    return num1 % num2
